@@ -27,7 +27,7 @@ In the context of quizzes, questions are scored using the French style. If the c
 - Quizzes can only be deleted by their creators.
 
 ### Implementation Details:
-The implementation will be done using a Java console application. It will accept a series of command-line arguments that need to be interpreted. Complete documentation for these commands and their expected responses is provided in the document "Tema1-DocumentațieComenzi.pdf".
+The implementation will be done using a Java console application. It will accept a series of command-line arguments that need to be interpreted. 
 
 ### Commands to be Processed:
 1. Create User
